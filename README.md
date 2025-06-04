@@ -2,6 +2,12 @@
 
 这是一个用 Java Swing 编写的经典数字拼图游戏，支持暂停、计时、胜利提示和返回主菜单功能。
 
+## 📸 游戏截图
+
+![游戏主界面](image/main-menu.png)
+![游戏进行中](image/gameplay.png)
+![胜利画面](image/win.png)
+
 ## 🧩 功能特性
 
 - 游戏开始界面
