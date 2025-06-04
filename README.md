@@ -4,8 +4,8 @@
 
 ## 📸 游戏截图
 
-![游戏主界面](image/main-menu.png)
-![游戏进行中](image/gameplay.png)
+![游戏主界面](image/main.png)
+![游戏进行中](image/game.png)
 ![胜利画面](image/win.png)
 
 ## 🧩 功能特性
@@ -25,9 +25,9 @@
 
 ## 📦 运行方式
 
-1. 克隆仓库：git clone https://github.com/Bai-mu-ha/Stone-maze.git
-2. 导入到 IntelliJ IDEA / Eclipse / VSCode + Java 插件
-3. 运行 [App.java](Stone-maze\src\App.java)
+1. 克隆仓库：git clone https://github.com/Bai-mu-ha/Game-Huarong-Road
+3. 导入到 IntelliJ IDEA / Eclipse / VSCode + Java 插件
+4. 运行 [App.java](Stone-maze\src\App.java)
 
 ## 📝 作者
 
